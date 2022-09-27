@@ -1,5 +1,7 @@
+package pages;
+
 import org.openqa.selenium.WebDriver;
-import pageObject.BasePage;
+import pages.BasePage;
 
 public class OlxHome extends BasePage {
     public OlxHome(WebDriver driver) {

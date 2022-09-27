@@ -1,8 +1,8 @@
-import org.testng.annotations.Test;
-import tests.TestInit;
+package tests;
 
-import static java.lang.Math.random;
-import static java.util.Collections.fill;
+import org.testng.annotations.Test;
+import pages.JabkoPage;
+import tests.TestInit;
 
 public class TestJabko extends TestInit {
 

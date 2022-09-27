@@ -1,3 +1,5 @@
+package learnInterface;
+
 import java.util.ArrayList;
 
 public interface ArrayListMethod {

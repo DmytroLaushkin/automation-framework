@@ -1,10 +1,10 @@
+package pages;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import pageObject.BasePage;
+import pages.BasePage;
 
-import javax.swing.text.Element;
-import java.util.ArrayList;
 import java.util.List;
 
 public class RozetkaPage extends BasePage {

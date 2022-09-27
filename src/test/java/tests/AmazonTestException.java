@@ -1,14 +1,7 @@
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.Test;
-import pageObject.BasePage;
-import tests.TestInit;
+package tests;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.NoSuchElementException;
+import org.openqa.selenium.By;
+import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertEquals;
 

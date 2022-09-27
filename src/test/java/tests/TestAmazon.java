@@ -2,8 +2,8 @@ package tests;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import pageObject.AmazonHomePageHelper;
-import pageObject.AmazonSearchResaltsPage;
+import pages.AmazonHomePageHelper;
+import pages.AmazonSearchResaltsPage;
 
 public class TestAmazon extends TestInit{
 

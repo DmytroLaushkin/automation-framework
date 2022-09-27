@@ -1,7 +1,7 @@
 package tests;
 
 import org.testng.annotations.Test;
-import pageObject.GoogleHomePage;
+import pages.GoogleHomePage;
 
 public class TestWebDriver extends TestInit {
 

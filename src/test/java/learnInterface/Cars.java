@@ -1,3 +1,5 @@
+package learnInterface;
+
 public interface Cars {
 
     void carSpeed();

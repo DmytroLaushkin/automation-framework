@@ -1,8 +1,4 @@
-package LearnInterface;
-
-import org.testng.annotations.Test;
-
-import java.util.Collection;
+package learnInterface;
 
 public interface Animals {
          void animalSound();

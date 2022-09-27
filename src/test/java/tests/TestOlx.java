@@ -2,8 +2,8 @@ package tests;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import pageObject.OlxHomePage;
-import pageObject.OlxSearchResaltsPage;
+import pages.OlxHomePage;
+import pages.OlxSearchResaltsPage;
 
 public class TestOlx extends  TestInit {
 
